@@ -1,11 +1,12 @@
 # blackpanther
-Black panther (BPER) IS the future crypto for comic&amp;animation industry.in future this BPER for paying the payments of animation films movie purchasing.comic industrial purpose .you can buy movie tickets with this 
+Black panther (BPER) IS  future crypto for  clothesand
+garmentsindustry you can purchase clothes and materials through this crypto in future
 
-smartcontract:/https://etherscan.io/token/0x4f06db3617d869214ccba4ab52153b56f47d8ddd
+smartcontract:https://etherscan.io/address/0x278ae6f52ce72b0df6cba451534b87846acc9d65
 
 SYMBOL :BPER
 
-DECIMAL:18
+DECIMAL:10
 
 WALLET : TRUSTWALLET,IAMTOKEN,MYETHERWALLET
 
